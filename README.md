@@ -68,3 +68,7 @@ yt-transcript -l de "https://www.youtube.com/watch?v=VIDEO_ID"
 ## License
 
 [MIT](LICENSE)
+
+---
+
+Built by [Izzy Aly](https://github.com/iiizzzyyy) at [PromptMetrics](https://github.com/promptmetrics).
